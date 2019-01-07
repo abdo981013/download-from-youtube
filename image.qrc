@@ -1,9 +1,8 @@
 <RCC>
   <qresource prefix="/images">
-   <file>image/youtube.png</file>
-   <file>image/playlist.png</file>
-   <file>image/save.png</file>
-   <file>image/search.png</file>
-   
+   <file>youtube.png</file>
+   <file>playlist.png</file>
+   <file>save.png</file>
+   <file>search.png</file>
   </qresource>
 </RCC>
